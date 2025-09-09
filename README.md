@@ -1,7 +1,7 @@
 ## Myan's Portfolio
 Currently studying and expanding my knowledge on security and network, as well as working on projects.
 ## Professional Statements
-Hello, I'm Myan. Thank you for taking a look at my portfolio!
+Hello, I'm Myan. I am passionate about technology and security, which started when I was in middle school trying to figure out how to set up "port-forwarding" to open a Minecraft server for me and my friends. I'm currently studying for my CompTIA certificates, thank you for taking a look at my portfolio!
 
 𝑺𝒖𝒎𝒎𝒂𝒓𝒚: 
 * Bachelor of Science in Business Administration, Information Systems student currently providing **Computer Help Desk** services.
