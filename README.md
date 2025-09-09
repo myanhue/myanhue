@@ -1,7 +1,7 @@
 ## Myan's Portfolio
 Currently studying and expanding my knowledge on security and network, as well as working on projects.
 ## Professional Statements
-Hello, I'm Myan. Thank you for taking a look at my GitHub portfolio!
+Hello, I'm Myan. Thank you for taking a look at my portfolio!
 
 𝑺𝒖𝒎𝒎𝒂𝒓𝒚: 
 * Bachelor of Science in Business Administration, Information Systems student currently providing **Computer Help Desk** services.
