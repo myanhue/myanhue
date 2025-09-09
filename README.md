@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>Hello, I'm Myan!
 
-<!--
-**myanhue/myanhue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+<h2>Certifications</h2>
+- [Mastercard Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_68abca7b7ffdd58dc7e1368e_1756710342583_completion_certificate.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Relevant Courses</h2>
+
+
+<h2> 📩 Connect with me!</h2>
+
+[<img align="left" alt="Myan Nguyen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Myan Nguyen | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/myan-nguyen
+[gmail]: mailto:mnguy1118@gmail.cokm
