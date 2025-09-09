@@ -3,7 +3,7 @@
 - Currently studying & working on projects
 
 
-### 🛡️ Security Engineering Projects:
+### 🛡️ Security Engineering Projects
 _Planned_
 
 ### 📃 Certifications
