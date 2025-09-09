@@ -2,15 +2,15 @@
 *BSBA Information Systems Student*  
 
 
-## Cybersecurity Projects:
+## 🛡️ Cybersecurity Projects:
 _Planned_
 
-## Certifications
+## 📃 Certifications
 - [Mastercard - Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_68abca7b7ffdd58dc7e1368e_1756710342583_completion_certificate.pdf)
 - _Studying for CompTIA A+_
 - _Studying for CompTIA Sec+_
 
-## Relevant Courses
+## 📋 Relevant Courses
 - BUS 281X [Coding for Data]
     - Focus & hands-on learning with Python and SQL:
         - Data wrangling with Python
