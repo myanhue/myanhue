@@ -1,5 +1,5 @@
 # Hello, I'm Myan!  
-- 🇺🇸 I'm an Information Systems student from California
+- 🇺🇸 I'm an Information Systems student from Los Angeles
 - Currently studying & working on projects
 
 
