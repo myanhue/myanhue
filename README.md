@@ -1,8 +1,9 @@
 ## Hello, I'm Myan!  
-- 🇺🇸 I'm an Information Systems student from Los Angeles
-- Currently studying & working on projects
+- 🇺🇸 I'm an **Information Systems** student starting my degree <br/>
 
+Currently studying and expanding my knowledge on security and network, as well as working on projects.
 
+___
 ### 🛡️ Security Engineering Projects
 _Planned_
 
@@ -11,11 +12,17 @@ _Planned_
 - _Studying for CompTIA A+_
 - _Studying for CompTIA Sec+_
 
-### 📋 Relevant Courses
-- BUS 281X
-    - Python & SQL
+### Skills
+###### Languages & Syntax:
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 
-### 📩 Connect with me!
+###### Operating Systems:
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![macOS](https://img.shields.io/badge/macOS-FFFFFF?style=for-the-badge&logo=apple&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+
+📩 Reach out to me at: [mnguy1118@gmail.com](mailto:mnguy1118@gmail.com)
 
 [<img align="left" alt="Myan Nguyen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Myan Nguyen | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
