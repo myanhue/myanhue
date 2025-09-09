@@ -12,7 +12,7 @@ _Planned_
 - _Studying for CompTIA Sec+_
 
 ## 📋 Relevant Courses
-- BUS 281X [Coding for Data]
+- BUS 281X
     - Python & SQL
 
 ## 📩 Connect with me!
