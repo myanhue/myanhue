@@ -1,14 +1,23 @@
-<h1>Hello, I'm Myan!
+# Hello, I'm Myan!  
+*BSBA Information Systems Student*  
 
 
-<h2>Cybersecurity Projects:</h2>
+## Cybersecurity Projects:
+_Planned_
 
 ## Certifications
 - [Mastercard - Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_68abca7b7ffdd58dc7e1368e_1756710342583_completion_certificate.pdf)
+- _Studying for CompTIA A+_
+- _Studying for CompTIA Sec+_
 
-<h2>Relevant Courses</h2>
+## Relevant Courses
+- BUS 281X [Coding for Data]
+    - Focus & hands-on learning with Python and SQL:
+        - Data wrangling with Python
+        - Real-world data problem-solving
+    - **Project Example**: Analyzed a large dataset to identify trends in businesses and customer behavior.
 
-<h2> 📩 Connect with me!</h2>
+## 📩 Connect with me!
 
 [<img align="left" alt="Myan Nguyen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Myan Nguyen | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
