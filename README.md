@@ -2,7 +2,7 @@
 *BSBA Information Systems Student*  
 
 
-## 🛡️ Cybersecurity Projects:
+## 🛡️ Security Engineering Projects:
 _Planned_
 
 ## 📃 Certifications
