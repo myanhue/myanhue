@@ -6,7 +6,7 @@
 _Planned_
 
 ## 📃 Certifications
-- <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_68abca7b7ffdd58dc7e1368e_1756710342583_completion_certificate.pdf" target="_blank">Mastercard - Cybersecurity Job Simulation</a>
+- [Mastercard - Cybersecurity Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_68abca7b7ffdd58dc7e1368e_1756710342583_completion_certificate.pdf)
 - _Studying for CompTIA A+_
 - _Studying for CompTIA Sec+_
 
