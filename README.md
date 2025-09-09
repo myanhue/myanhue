@@ -1,5 +1,6 @@
 # Hello, I'm Myan!  
-*BSBA Information Systems Student*  
+- 🇺🇸 I'm an Information Systems student from California
+- Currently studying & working on projects
 
 
 ## 🛡️ Security Engineering Projects:
@@ -12,10 +13,7 @@ _Planned_
 
 ## 📋 Relevant Courses
 - BUS 281X [Coding for Data]
-    - Focus & hands-on learning with Python and SQL:
-        - Data wrangling with Python
-        - Real-world data problem-solving
-    - **Project Example**: Analyzed a large dataset to identify trends in businesses and customer behavior.
+    - Python & SQL
 
 ## 📩 Connect with me!
 
