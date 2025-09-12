@@ -1,5 +1,5 @@
 ## Myan's Portfolio
-Currently studying and expanding my knowledge on security and network, as well as working on projects.
+Currently studying and expanding my knowledge on security and network, as well as currently working on a keylogger project.
 ## Professional Statements
 Hi, I'm Myan! I have a deep interest and love for technology and cybersecurity, which started when I was in middle school trying to figure out how to set up "port-forwarding" to open a Minecraft server for me and my friends. I've had my fair share of unfortunate experiences with malware when I was younger, which fuels my passion for security and learning how to effectively protect systems of my own. I'm currently studying for my CompTIA certificates.
 
