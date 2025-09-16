@@ -18,11 +18,12 @@ Thank you for taking a look around at my portfolio!
 * IT Support: Provided support to end-users with account issues, software, hardware, and network issues for streamlined processess.
 
 𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒌𝒊𝒍𝒍𝒔:
-* Kali Linux, MacOS, Windows, Python, SQL, Anydesk, Office 365
+* (Beginner) Kali Linux, MacOS, Windows, Python, SQL, Anydesk, Office 365
 <br>
 
 ## 🛡️ Security Engineering Projects
-- _Currently working on._
+- [Simple Keylogger | _Python_](https://github.com/myanhue/keylogger-project)
+<br>
 
 ## 📃 Certifications
 - [Mastercard - Security Analyst Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_68abca7b7ffdd58dc7e1368e_1756710342583_completion_certificate.pdf)
