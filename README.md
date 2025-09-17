@@ -18,7 +18,7 @@ Thank you for taking a look around at my portfolio!
 * IT Support: Provided support to end-users with account issues, software, hardware, and network issues for streamlined processess.
 
 𝑻𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝑺𝒌𝒊𝒍𝒍𝒔:
-* (Beginner) Kali Linux, MacOS, Windows, Python, SQL, Anydesk, Office 365
+* Kali Linux, MacOS, Windows, Python, SQL, Anydesk, Office 365
 <br>
 
 ## 🛡️ Security Engineering Projects
