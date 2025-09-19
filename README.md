@@ -23,6 +23,7 @@ Thank you for taking a look around at my portfolio!
 
 ## 🛡️ Security Engineering Projects
 - [Simple Keylogger | _Python_](https://github.com/myanhue/keylogger-project)
+- [Linux AuthPerms | Bash](https://github.com/myanhue/linux-authperms)
 <br>
 
 ## 📃 Certifications
