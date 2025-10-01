@@ -10,7 +10,7 @@ Thank you for taking a look around at my portfolio!
 * Experience in data analysis, technical support, and customer service.
 * Passionate about IT support and Cybersecurity
 * Currently leading projects designed to enhance user experience, security, and quality of life.
-* Google Cybersecurity certificates graduate.
+* Committed to self-studying cybersecurity, alongside education.
 
 𝑲𝒆𝒚 𝑺𝒌𝒊𝒍𝒍𝒔:
 * Data Analysis: wrote complex queries with **SQL** and **Python**; Manipulating data for visual analysis and trend analysis.
